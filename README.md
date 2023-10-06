@@ -4,7 +4,7 @@
 
 <p align="center">
 	<b><i>Development repo for 42cursus' libft project</i></b><br>
-	For further information about 42 and its projects, please go to my <a href="https://github.com/psdiaspedro?tab=repositories"><b>repositories</b></a>.
+	For further information about 42 and its projects, please go to my <a href="https://github.com/rogeregrge?tab=repositories"><b>repositories</b></a>.
 </p>
 
 # index
